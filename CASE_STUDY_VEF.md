@@ -617,8 +617,8 @@ Your transparency about methods makes this a valuable teaching example. Your ope
 
 ## Next Steps for Readers
 
-1. Review **RED_FLAGS_CHECKLIST.md** to spot similar patterns
-2. Use **CRITICAL_THINKING_TOOLKIT.md** to evaluate frameworks
-3. Read **COMPARISON_TO_VALIDATED_FRAMEWORKS.md** for evidence-based alternatives
+1. Review **[RED_FLAGS_CHECKLIST.md](RED_FLAGS_CHECKLIST.md)** to spot similar patterns
+2. Use **[CRITICAL_THINKING_TOOLKIT.md](CRITICAL_THINKING_TOOLKIT.md)** to evaluate frameworks
+3. Read **[COMPARISON_TO_VALIDATED_FRAMEWORKS.md](COMPARISON_TO_VALIDATED_FRAMEWORKS.md)** for evidence-based alternatives
 
 **Remember**: This case study is a warning about AI limitations, not a personal attack. Anyone can fall into this pattern. Recognition is the first step to protection.

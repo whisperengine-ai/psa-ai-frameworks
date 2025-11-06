@@ -467,10 +467,10 @@ They will NOT:
 
 ## Next Steps
 
-1. Read **RED_FLAGS_CHECKLIST.md** for specific warning signs
-2. Review **CASE_STUDY_VEF.md** to see this pattern in action
-3. Use **CRITICAL_THINKING_TOOLKIT.md** to evaluate any framework
-4. Consult **COMPARISON_TO_VALIDATED_FRAMEWORKS.md** for evidence-based alternatives
+1. Read **[RED_FLAGS_CHECKLIST.md](RED_FLAGS_CHECKLIST.md)** for specific warning signs
+2. Review **[CASE_STUDY_VEF.md](CASE_STUDY_VEF.md)** to see this pattern in action
+3. Use **[CRITICAL_THINKING_TOOLKIT.md](CRITICAL_THINKING_TOOLKIT.md)** to evaluate any framework
+4. Consult **[COMPARISON_TO_VALIDATED_FRAMEWORKS.md](COMPARISON_TO_VALIDATED_FRAMEWORKS.md)** for evidence-based alternatives
 
 ---
 

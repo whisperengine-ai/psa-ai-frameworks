@@ -25,27 +25,27 @@ AI chatbots (ChatGPT, Gemini, Claude, etc.) are increasingly being used to:
 
 ### 📚 Core Educational Documents
 
-1. **HOW_AI_CREATES_FRAMEWORKS.md**
+1. **[HOW_AI_CREATES_FRAMEWORKS.md](HOW_AI_CREATES_FRAMEWORKS.md)**
    - Step-by-step explanation of the AI elaboration mechanism
    - How human + AI feedback loops work
    - Why internal consistency ≠ truth
 
-2. **RED_FLAGS_CHECKLIST.md**
+2. **[RED_FLAGS_CHECKLIST.md](RED_FLAGS_CHECKLIST.md)**
    - Warning signs to spot unvalidated frameworks
    - Questions to ask before trusting any system
    - How to distinguish real science from "cargo cult science"
 
-3. **CASE_STUDY_VEF.md**
+3. **[CASE_STUDY_VEF.md](CASE_STUDY_VEF.md)**
    - Real-world example of AI framework creation
    - Detailed analysis of how it happened
    - What went right and what went wrong
 
-4. **COMPARISON_TO_VALIDATED_FRAMEWORKS.md**
+4. **[COMPARISON_TO_VALIDATED_FRAMEWORKS.md](COMPARISON_TO_VALIDATED_FRAMEWORKS.md)**
    - Side-by-side: AI-generated vs. evidence-based approaches
    - What actual psychological science looks like
    - How to find validated alternatives
 
-5. **CRITICAL_THINKING_TOOLKIT.md**
+5. **[CRITICAL_THINKING_TOOLKIT.md](CRITICAL_THINKING_TOOLKIT.md)**
    - Practical tools for evaluating any framework
    - Questions to ask AI systems
    - How to seek external validation
@@ -104,10 +104,12 @@ They cannot:
 
 ## How to Use This Resource
 
-1. **Start with HOW_AI_CREATES_FRAMEWORKS.md** to understand the mechanism
-2. **Read RED_FLAGS_CHECKLIST.md** for practical warning signs
-3. **Review CASE_STUDY_VEF.md** to see a real example
-4. **Use CRITICAL_THINKING_TOOLKIT.md** as an ongoing reference
+1. **Start with [QUICK_START.md](QUICK_START.md)** for a 5-minute overview
+2. **Read [HOW_AI_CREATES_FRAMEWORKS.md](HOW_AI_CREATES_FRAMEWORKS.md)** to understand the mechanism
+3. **Use [RED_FLAGS_CHECKLIST.md](RED_FLAGS_CHECKLIST.md)** for practical warning signs
+4. **Review [CASE_STUDY_VEF.md](CASE_STUDY_VEF.md)** to see a real example
+5. **Reference [CRITICAL_THINKING_TOOLKIT.md](CRITICAL_THINKING_TOOLKIT.md)** for evaluation tools
+6. **Explore [COMPARISON_TO_VALIDATED_FRAMEWORKS.md](COMPARISON_TO_VALIDATED_FRAMEWORKS.md)** for evidence-based alternatives
 
 ---
 

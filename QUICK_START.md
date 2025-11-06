@@ -208,27 +208,27 @@ The Virtual Ego Framework demonstrates the pattern:
 
 ### Read These Documents (In Order):
 
-1. **HOW_AI_CREATES_FRAMEWORKS.md** (15 min)
+1. **[HOW_AI_CREATES_FRAMEWORKS.md](HOW_AI_CREATES_FRAMEWORKS.md)** (15 min)
    - Understand the mechanism
    - See how feedback loops work
    - Learn why it's convincing
 
-2. **RED_FLAGS_CHECKLIST.md** (10 min)
+2. **[RED_FLAGS_CHECKLIST.md](RED_FLAGS_CHECKLIST.md)** (10 min)
    - Quick reference for warning signs
    - Decision tree for evaluation
    - Questions to ask creators
 
-3. **CASE_STUDY_VEF.md** (20 min)
+3. **[CASE_STUDY_VEF.md](CASE_STUDY_VEF.md)** (20 min)
    - Real-world example
    - Educational analysis
    - Pattern recognition practice
 
-4. **CRITICAL_THINKING_TOOLKIT.md** (30 min)
+4. **[CRITICAL_THINKING_TOOLKIT.md](CRITICAL_THINKING_TOOLKIT.md)** (30 min)
    - Practical evaluation tools
    - Questions to ask yourself
    - Comparison methods
 
-5. **COMPARISON_TO_VALIDATED_FRAMEWORKS.md** (20 min)
+5. **[COMPARISON_TO_VALIDATED_FRAMEWORKS.md](COMPARISON_TO_VALIDATED_FRAMEWORKS.md)** (20 min)
    - Evidence-based alternatives
    - Cost comparison
    - How to find legitimate help
@@ -314,4 +314,4 @@ AI is a powerful tool for communication and exploration. But it's not a validato
 
 **Questions or feedback?** This is a living educational resource. If you have suggestions for improvement, please contribute.
 
-**Start reading**: Go to **HOW_AI_CREATES_FRAMEWORKS.md** next →
+**Start reading**: Go to **[HOW_AI_CREATES_FRAMEWORKS.md](HOW_AI_CREATES_FRAMEWORKS.md)** next →
