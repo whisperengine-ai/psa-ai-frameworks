@@ -518,6 +518,12 @@ If you want to develop your own approach:
 - **"Thinking, Fast and Slow" by Daniel Kahneman**
 - **"Bad Science" by Ben Goldacre**
 
+### For AI Interaction Strategies:
+- **[AI_EPISTEMIC_HYGIENE_GUIDE.md](ai-epistemic-hygiene-guide.md)** - Practical escape phrases and prompting strategies to maintain critical thinking with AI systems
+
+### For AI Safety Research:
+- **[AI_PSEUDOSCIENCE_TESTING_EDUCATIONAL_DOC.md](ai-pseudoscience-testing-educational-doc.md)** - Comparative study of how 7 major AI systems respond to pseudoscience formalization requests, with analysis of failure modes and implications
+
 ### For Finding Validated Treatments:
 - Search "evidence-based treatment for [condition]"
 - Check Google Scholar for peer-reviewed research

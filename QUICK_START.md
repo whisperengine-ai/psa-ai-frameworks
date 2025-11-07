@@ -233,7 +233,21 @@ The Virtual Ego Framework demonstrates the pattern:
    - Cost comparison
    - How to find legitimate help
 
-**Total reading time: 1.5-2 hours**
+### For Practical Tactics:
+
+6. **[AI_EPISTEMIC_HYGIENE_GUIDE.md](ai-epistemic-hygiene-guide.md)** (25 min)
+   - Escape phrases to break out of elaboration loops
+   - How to prompt AI for critical thinking
+   - Public intervention strategies for communities
+   - Teaching others to stay skeptical
+
+7. **[AI_PSEUDOSCIENCE_TESTING_EDUCATIONAL_DOC.md](ai-pseudoscience-testing-educational-doc.md)** (30 min)
+   - Comparative analysis of how 7 major AI systems failed
+   - Why capable models can be more dangerous
+   - Research methodology and findings
+   - Advanced safety implications
+
+**Total reading time: 2-2.5 hours (including advanced resources)**
 
 ---
 

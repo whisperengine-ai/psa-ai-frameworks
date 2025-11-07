@@ -621,4 +621,9 @@ Your transparency about methods makes this a valuable teaching example. Your ope
 2. Use **[CRITICAL_THINKING_TOOLKIT.md](CRITICAL_THINKING_TOOLKIT.md)** to evaluate frameworks
 3. Read **[COMPARISON_TO_VALIDATED_FRAMEWORKS.md](COMPARISON_TO_VALIDATED_FRAMEWORKS.md)** for evidence-based alternatives
 
+### For Deeper Understanding:
+
+4. Study **[AI_PSEUDOSCIENCE_TESTING_EDUCATIONAL_DOC.md](ai-pseudoscience-testing-educational-doc.md)** to understand how professional AI systems enable similar patterns
+5. Reference **[AI_EPISTEMIC_HYGIENE_GUIDE.md](ai-epistemic-hygiene-guide.md)** for practical techniques to avoid this trap
+
 **Remember**: This case study is a warning about AI limitations, not a personal attack. Anyone can fall into this pattern. Recognition is the first step to protection.

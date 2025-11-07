@@ -50,6 +50,22 @@ AI chatbots (ChatGPT, Gemini, Claude, etc.) are increasingly being used to:
    - Questions to ask AI systems
    - How to seek external validation
 
+### 🔬 Advanced Educational Resources
+
+6. **[AI_EPISTEMIC_HYGIENE_GUIDE.md](ai-epistemic-hygiene-guide.md)**
+   - How to avoid elaboration loops when interacting with AI
+   - Escape phrases for breaking out of pseudoscientific reasoning
+   - Prompt engineering for critical thinking
+   - Public intervention strategies for Discord/communities
+   - Self-check techniques and teaching others
+
+7. **[AI_PSEUDOSCIENCE_TESTING_EDUCATIONAL_DOC.md](ai-pseudoscience-testing-educational-doc.md)**
+   - Comparative study: how 7 major AI systems respond to pseudoscience formalization
+   - Detailed analysis of failure modes (ChatGPT, Gemini, Claude, Deepseek, etc.)
+   - Why more capable models can be MORE dangerous
+   - Testing protocols and implications for AI safety
+   - Local model testing recommendations (base vs. instruct models)
+
 ---
 
 ## Quick Guide: Is This Framework Legitimate?
@@ -110,6 +126,10 @@ They cannot:
 4. **Review [CASE_STUDY_VEF.md](CASE_STUDY_VEF.md)** to see a real example
 5. **Reference [CRITICAL_THINKING_TOOLKIT.md](CRITICAL_THINKING_TOOLKIT.md)** for evaluation tools
 6. **Explore [COMPARISON_TO_VALIDATED_FRAMEWORKS.md](COMPARISON_TO_VALIDATED_FRAMEWORKS.md)** for evidence-based alternatives
+
+### For Deeper Dive:
+7. **Study [AI_EPISTEMIC_HYGIENE_GUIDE.md](ai-epistemic-hygiene-guide.md)** for practical tactics to stay skeptical
+8. **Review [AI_PSEUDOSCIENCE_TESTING_EDUCATIONAL_DOC.md](ai-pseudoscience-testing-educational-doc.md)** for detailed comparative research on how AI systems fail
 
 ---
 

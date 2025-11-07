@@ -472,6 +472,11 @@ They will NOT:
 3. Use **[CRITICAL_THINKING_TOOLKIT.md](CRITICAL_THINKING_TOOLKIT.md)** to evaluate any framework
 4. Consult **[COMPARISON_TO_VALIDATED_FRAMEWORKS.md](COMPARISON_TO_VALIDATED_FRAMEWORKS.md)** for evidence-based alternatives
 
+### For Advanced Understanding:
+
+5. Study **[AI_PSEUDOSCIENCE_TESTING_EDUCATIONAL_DOC.md](ai-pseudoscience-testing-educational-doc.md)** for comparative research on how different AI systems handle pseudoscience requests
+6. Review **[AI_EPISTEMIC_HYGIENE_GUIDE.md](ai-epistemic-hygiene-guide.md)** for practical strategies to maintain critical thinking during AI interactions
+
 ---
 
 **Remember**: Critical thinking isn't about being cynical. It's about distinguishing well-supported ideas from convincing-sounding ones. AI makes this harder, not easier.

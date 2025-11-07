@@ -567,6 +567,10 @@ Daily MCL logging mandatory
 - **National Suicide Prevention Lifeline**: 988
 - **Crisis Text Line**: Text HOME to 741741
 
+### For Understanding AI Framework Dangers:
+- **[AI_PSEUDOSCIENCE_TESTING_EDUCATIONAL_DOC.md](ai-pseudoscience-testing-educational-doc.md)** - Research demonstrating how major AI systems enable pseudoscience formalization
+- **[AI_EPISTEMIC_HYGIENE_GUIDE.md](ai-epistemic-hygiene-guide.md)** - Practical strategies for maintaining critical thinking when interacting with AI
+
 ---
 
 **Remember**: Evidence-based approaches exist because they've been tested and proven effective. Start there before exploring unvalidated alternatives.

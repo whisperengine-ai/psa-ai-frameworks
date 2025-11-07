@@ -385,6 +385,12 @@ Count the red flags (🚩) from the list above:
 - Check professional organizations (APA, ABCT, etc.)
 - Look for peer-reviewed research on Google Scholar
 
+### For Understanding How AI Enables Pseudoscience:
+- **[AI_PSEUDOSCIENCE_TESTING_EDUCATIONAL_DOC.md](ai-pseudoscience-testing-educational-doc.md)** - Comparative study of how 7 major AI systems respond to pseudoscience formalization requests, with detailed methodology for understanding failure modes
+
+### For Staying Epistemically Vigilant:
+- **[AI_EPISTEMIC_HYGIENE_GUIDE.md](ai-epistemic-hygiene-guide.md)** - Practical techniques and escape phrases for maintaining critical thinking while interacting with AI systems
+
 ---
 
 ## Summary: The One Question
