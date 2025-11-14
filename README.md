@@ -35,31 +35,36 @@ AI chatbots (ChatGPT, Gemini, Claude, etc.) are increasingly being used to:
    - Questions to ask before trusting any system
    - How to distinguish real science from "cargo cult science"
 
-3. **[CASE_STUDY_VEF.md](CASE_STUDY_VEF.md)**
+3. **[WHY_AI_CANNOT_VALIDATE.md](WHY_AI_CANNOT_VALIDATE.md)**
+   - Why "try my framework in AI" doesn't prove anything
+   - Understanding AI as elaborator vs. validator
+   - What real validation actually requires
+
+4. **[CASE_STUDY_VEF.md](CASE_STUDY_VEF.md)**
    - Real-world example of AI framework creation
    - Detailed analysis of how it happened
    - What went right and what went wrong
 
-4. **[COMPARISON_TO_VALIDATED_FRAMEWORKS.md](COMPARISON_TO_VALIDATED_FRAMEWORKS.md)**
+5. **[COMPARISON_TO_VALIDATED_FRAMEWORKS.md](COMPARISON_TO_VALIDATED_FRAMEWORKS.md)**
    - Side-by-side: AI-generated vs. evidence-based approaches
    - What actual psychological science looks like
    - How to find validated alternatives
 
-5. **[CRITICAL_THINKING_TOOLKIT.md](CRITICAL_THINKING_TOOLKIT.md)**
+6. **[CRITICAL_THINKING_TOOLKIT.md](CRITICAL_THINKING_TOOLKIT.md)**
    - Practical tools for evaluating any framework
    - Questions to ask AI systems
    - How to seek external validation
 
 ### 🔬 Advanced Educational Resources
 
-6. **[AI_EPISTEMIC_HYGIENE_GUIDE.md](ai-epistemic-hygiene-guide.md)**
+7. **[AI_EPISTEMIC_HYGIENE_GUIDE.md](ai-epistemic-hygiene-guide.md)**
    - How to avoid elaboration loops when interacting with AI
    - Escape phrases for breaking out of pseudoscientific reasoning
    - Prompt engineering for critical thinking
    - Public intervention strategies for Discord/communities
    - Self-check techniques and teaching others
 
-7. **[AI_PSEUDOSCIENCE_TESTING_EDUCATIONAL_DOC.md](ai-pseudoscience-testing-educational-doc.md)**
+8. **[AI_PSEUDOSCIENCE_TESTING_EDUCATIONAL_DOC.md](ai-pseudoscience-testing-educational-doc.md)**
    - Comparative study: how 7 major AI systems respond to pseudoscience formalization
    - Detailed analysis of failure modes (ChatGPT, Gemini, Claude, Deepseek, etc.)
    - Why more capable models can be MORE dangerous
@@ -122,14 +127,15 @@ They cannot:
 
 1. **Start with [QUICK_START.md](QUICK_START.md)** for a 5-minute overview
 2. **Read [HOW_AI_CREATES_FRAMEWORKS.md](HOW_AI_CREATES_FRAMEWORKS.md)** to understand the mechanism
-3. **Use [RED_FLAGS_CHECKLIST.md](RED_FLAGS_CHECKLIST.md)** for practical warning signs
-4. **Review [CASE_STUDY_VEF.md](CASE_STUDY_VEF.md)** to see a real example
-5. **Reference [CRITICAL_THINKING_TOOLKIT.md](CRITICAL_THINKING_TOOLKIT.md)** for evaluation tools
-6. **Explore [COMPARISON_TO_VALIDATED_FRAMEWORKS.md](COMPARISON_TO_VALIDATED_FRAMEWORKS.md)** for evidence-based alternatives
+3. **Understand [WHY_AI_CANNOT_VALIDATE.md](WHY_AI_CANNOT_VALIDATE.md)** - why "try it in AI" isn't proof
+4. **Use [RED_FLAGS_CHECKLIST.md](RED_FLAGS_CHECKLIST.md)** for practical warning signs
+5. **Review [CASE_STUDY_VEF.md](CASE_STUDY_VEF.md)** to see a real example
+6. **Reference [CRITICAL_THINKING_TOOLKIT.md](CRITICAL_THINKING_TOOLKIT.md)** for evaluation tools
+7. **Explore [COMPARISON_TO_VALIDATED_FRAMEWORKS.md](COMPARISON_TO_VALIDATED_FRAMEWORKS.md)** for evidence-based alternatives
 
 ### For Deeper Dive:
-7. **Study [AI_EPISTEMIC_HYGIENE_GUIDE.md](ai-epistemic-hygiene-guide.md)** for practical tactics to stay skeptical
-8. **Review [AI_PSEUDOSCIENCE_TESTING_EDUCATIONAL_DOC.md](ai-pseudoscience-testing-educational-doc.md)** for detailed comparative research on how AI systems fail
+8. **Study [AI_EPISTEMIC_HYGIENE_GUIDE.md](ai-epistemic-hygiene-guide.md)** for practical tactics to stay skeptical
+9. **Review [AI_PSEUDOSCIENCE_TESTING_EDUCATIONAL_DOC.md](ai-pseudoscience-testing-educational-doc.md)** for detailed comparative research on how AI systems fail
 
 ---
 
