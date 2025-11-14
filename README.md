@@ -3,7 +3,7 @@
 
 **Purpose**: This folder contains educational materials to help the general public understand how AI language models can create elaborate, internally-consistent frameworks that *appear* scientifically rigorous but lack external validation.
 
-**Target Audience**: Anyone using AI tools for decision-making, personal development, or research
+**Target Audience**: Anyone using AI tools for theory development, research, decision-making, or intellectual exploration
 
 **Last Updated**: November 13, 2025
 
@@ -12,9 +12,9 @@
 ## Why This Matters
 
 AI chatbots (ChatGPT, Gemini, Claude, etc.) are increasingly being used to:
-- Develop personal psychological frameworks
-- Create decision-making systems
+- Develop comprehensive theories spanning multiple domains
 - Formalize ideas into mathematical models
+- Create unified frameworks claiming to explain physics, consciousness, or psychology
 - Generate "research" that looks academically rigorous
 
 **The Problem**: These AI systems are excellent at creating *appearance* of rigor without *substance* of validation.
@@ -52,9 +52,9 @@ AI chatbots (ChatGPT, Gemini, Claude, etc.) are increasingly being used to:
    - Meta-awareness paradox: why explicit testing across AI platforms failed
    - Intelligence as risk factor in AI collaboration
 
-5. **[COMPARISON_TO_VALIDATED_FRAMEWORKS.md](COMPARISON_TO_VALIDATED_FRAMEWORKS.md)**
+6. **[COMPARISON_TO_VALIDATED_FRAMEWORKS.md](COMPARISON_TO_VALIDATED_FRAMEWORKS.md)**
    - Side-by-side: AI-generated vs. evidence-based approaches
-   - What actual psychological science looks like
+   - What actual validated science looks like (with examples from psychology)
    - How to find validated alternatives
 
 6. **[CRITICAL_THINKING_TOOLKIT.md](CRITICAL_THINKING_TOOLKIT.md)**
@@ -127,7 +127,7 @@ AI chatbots (ChatGPT, Gemini, Claude, etc.) are increasingly being used to:
 
 ## Who Should Read This
 
-- **AI Users**: Anyone using ChatGPT, Gemini, Claude for personal development
+- **AI Users**: Anyone using ChatGPT, Gemini, Claude for theory development or intellectual exploration
 - **Researchers**: People studying AI-human collaboration patterns
 - **Educators**: Teachers helping students evaluate information sources
 - **Therapists/Counselors**: Professionals who may encounter clients using AI frameworks
@@ -180,7 +180,7 @@ This educational resource:
 - Is not attacking any specific person or framework
 - Aims to educate about AI limitations
 - Encourages critical thinking and external validation
-- Supports evidence-based approaches to personal development
+- Supports evidence-based approaches and proper validation standards
 
 ---
 

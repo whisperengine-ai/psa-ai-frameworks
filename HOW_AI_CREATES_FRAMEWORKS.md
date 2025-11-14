@@ -28,10 +28,12 @@ Think of them as:
 
 ### Stage 1: Person Has an Idea
 
-**Example**: 
-> "I've noticed that when I'm stressed, I make bad decisions. When I'm calm, I make better ones. Maybe there's a universal principle here about coherence?"
+**Examples**: 
+> "I've noticed that when I'm stressed, I make bad decisions. Maybe there's a universal principle here about coherence?"
 
-**This is normal human pattern recognition.** Nothing wrong with this observation.
+> "Self-reference seems fundamental to logic and consciousness. Could one axiom about self-reference explain everything?"
+
+**This is normal human pattern recognition.** Nothing inherently wrong with exploring these ideas.
 
 ---
 
@@ -75,7 +77,7 @@ Where:
 - No data was analyzed to derive those parameters (α, β, γ, η, δ)
 - No experiments tested if the equation predicts real behavior
 - No peer review checked if this approach makes sense
-- No comparison to existing psychological research
+- No comparison to existing research in the relevant field
 
 **Analogy**: You sketched a flying machine. AI drew it beautifully with blueprints and technical labels. **The machine still doesn't fly.**
 

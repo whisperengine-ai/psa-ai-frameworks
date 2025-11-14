@@ -2,7 +2,7 @@
 ## Understanding the Difference
 
 **Reading Time**: 20 minutes  
-**Purpose**: Help you distinguish between unvalidated AI-generated frameworks and evidence-based psychological approaches
+**Purpose**: Help you distinguish between unvalidated AI-generated frameworks and evidence-based validated approaches (with examples from psychology)
 
 **Context**: After reading about [red flags](RED_FLAGS_CHECKLIST.md) and [validation issues](WHY_AI_CANNOT_VALIDATE.md), this document shows you what legitimate alternatives look like.
 

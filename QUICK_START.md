@@ -23,14 +23,14 @@
 ## The Pattern: How It Happens
 
 ### Stage 1: Good Observation
-Person notices pattern: "When stressed, I make bad decisions"
+Person notices pattern: "When stressed, I make bad decisions" OR "Self-reference seems fundamental to logic"
 
-**This is valid insight!**
+**This might be a valid insight!**
 
 ### Stage 2: AI Formalization
 Person asks AI: "Can you formalize this mathematically?"
 
-AI creates: Elaborate equations, thresholds, formulas
+AI creates: Elaborate equations, category theory structures, differential equations
 
 **This LOOKS rigorous but isn't validated**
 
@@ -40,11 +40,11 @@ Person thinks: "AI made it mathematical, so it must be scientific!"
 **Reality**: AI only provided form, not substance
 
 ### Stage 4: Expansion
-Person asks: "Does this apply to economics? Physics? Religion?"
+Person asks: "Does this explain consciousness? Physics? Mathematics itself?"
 
 AI says: "Yes! Here's how..."
 
-**Result**: Personal insight → Universal theory (unvalidated)
+**Result**: Initial observation → Universal theory (unvalidated)
 
 ### Stage 5: Institutional Ambitions
 Person proposes: "This should be global policy"
